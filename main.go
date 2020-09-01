@@ -1,4 +1,4 @@
-package basic_go_app_gae
+package main
 
 import (
 	"fmt"
